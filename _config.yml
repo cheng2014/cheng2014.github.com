@@ -8,14 +8,18 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+#title : Jekyll Bootstrap
+title : 程
+Itagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+ # name : Name Lastname
+  name : Cheng Xuechao
+ # email : blah@email.test
+  email : xuechao.cheng@gmail.com
+ # github : username
+  github : cheng2014
+ # twitter : username
+ # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -76,11 +80,12 @@ JB :
   rss_path : /rss.xml
 
   # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to the comment iprovider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+   # provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
