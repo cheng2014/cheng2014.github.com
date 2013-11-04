@@ -1,7 +1,10 @@
 ---
-yout: post
-category : lessons
-tagline: "chengxuechao is testing"
-tags : [intro, beginner, jekyll, tutorial]
+layout: post
+category : new_category
+tagline: "new tagline"
+tags : [new_test]
 ---
-#this is my test!
+#This is my first blog!
+
+hahaha!
+还有乱码吗？

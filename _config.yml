@@ -2,7 +2,7 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "bak_categpries"]
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -18,8 +18,8 @@ author :
   email : xuechao.cheng@gmail.com
  # github : username
   github : cheng2014
- # twitter : username
- # feedburner : feedname
+  twitter : cheng
+  feedburner : cheng
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
