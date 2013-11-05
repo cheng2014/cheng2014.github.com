@@ -5,9 +5,6 @@ title:  MY HOMEPAGE
 ---
 {% include JB/setup %}
 
-# HI！Welcome to my blog! 
-
-
-    欢迎来访问我的博客！现在还很简陋呢！
-
+#      HI！Welcome to my blog! 
 ![](/images/index.jpg)
+上图为我和兄弟们去西藏耍的照片，美好的回忆。
