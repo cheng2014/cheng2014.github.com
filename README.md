@@ -1,9 +1,3 @@
-# 测试一下我的博客发布
+###### 这是我的个人博客 ######
 
-还不错吧现在！
-
-## 要感谢：
-
-For all usage and documentation please see: <http://jekyllbootstrap.com>
-
-
+基于: [jekyll](http://jekyllrb.com) [Tom Preston-Werner](https://github.com/mojombo)
